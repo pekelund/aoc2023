@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="systems-local" />
+      <option name="name" value="systems-local" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/systems-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="minerva-snapshot" />
+      <option name="name" value="snapshot" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-minerva-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="minerva-release" />
+      <option name="name" value="release" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-minerva-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="anly-release" />
+      <option name="name" value="release" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-anly-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="was" />
+      <option name="name" value="was" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/was" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ssag-release" />
+      <option name="name" value="release" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-tai-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="espresso-release" />
+      <option name="name" value="release" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-espresso-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/maven-repo.maven.apache.org" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="systems-release" />
+      <option name="name" value="systems-release" />
+      <option name="url" value="https://artifactory.shbmain.shb.biz/artifactory/systems-release" />
+    </remote-repository>
+  </component>
+</project>

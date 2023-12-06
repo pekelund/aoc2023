@@ -1,0 +1,26 @@
+
+a
+java:S2095,"DUse try-with-resources or close this "Stream" in a "finally" clause.(èù¸¯8²Ü¶«Ã1
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(èù¸¯8²Ü¶«Ã1
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(‰‹ŠÛ8ºÜ¶«Ã1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(çÃÕûÿÿÿÿ8»Ü¶«Ã1
+G	java:S106""+Replace this use of System.out by a logger.(ÉàÖ¿8¼Ü¶«Ã1
+v
+java:S5850)"TGroup parts of the regex together to make the intended operator precedence explicit.(¥¸üîúÿÿÿÿ8¾Ü¶«Ã1
+v
+java:S5850*"TGroup parts of the regex together to make the intended operator precedence explicit.(ğÎü‡ûÿÿÿÿ8ÀÜ¶«Ã1
+L	java:S1065"+Replace this use of System.out by a logger.(ÙêÛ’şÿÿÿÿ8ÂÜ¶«Ã1
+L	java:S106<"+Replace this use of System.out by a logger.(»ıØšûÿÿÿÿ8ÄÜ¶«Ã1
+G	java:S106C"+Replace this use of System.out by a logger.(õšÌú8ÆÜ¶«Ã1
+L	java:S106D"+Replace this use of System.out by a logger.(çû¼‡ûÿÿÿÿ8ÆÜ¶«Ã1
+G	java:S106E"+Replace this use of System.out by a logger.(Ë•Üç8ÆÜ¶«Ã1
+L	java:S106F"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ÇÜ¶«Ã1
+L	java:S106J"+Replace this use of System.out by a logger.(˜¸İ‡üÿÿÿÿ8ÉÜ¶«Ã1
+G	java:S106]"+Replace this use of System.out by a logger.(²İó‘8§Ô·«Ã1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÊÜ¶«Ã1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÊÜ¶«Ã1
